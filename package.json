@@ -1,0 +1,12 @@
+{
+  "name": "stickler_ts_stylelint",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mateutek/stickler_ts_stylelint.git",
+  "author": "Mateusz Woźniak <mateutek.w@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "stylelint": "^9.10.1",
+    "stylelint-config-standard": "^18.2.0"
+  }
+}
